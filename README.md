@@ -22,13 +22,14 @@ Just **speak**, and SmartCart will add, remove, or suggest items intelligently.
 <img width="1916" height="890" alt="image" src="https://github.com/user-attachments/assets/05324239-acf0-4dd2-8741-400bd6a64049" />  
 
 ### 📝 Shopping List in Action  
-![Shopping List](assets/list.png)  
+<img width="1916" height="903" alt="image" src="https://github.com/user-attachments/assets/9a9be3aa-b26a-47a0-a98c-f4981a5a938f" />
+
 
 ---
 
-## 🎥 Live Demo  
+##  Demo  
 
-![Usage Demo](assets/demo.gif)  
+
 
 👉 *Speak commands like:*  
 - `"Add 2 milk packets"`  
