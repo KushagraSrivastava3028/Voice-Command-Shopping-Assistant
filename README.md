@@ -1,4 +1,4 @@
-# Voice-Command-Shopping-Assistant# 
+# Voice-Command-Shopping-Assistant # 
 🛒 VoiceShop – AI-powered Shopping List  
 
 VoiceShop is a smart shopping list app that lets you **add, remove, and manage items with your voice**.  
