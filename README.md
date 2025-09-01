@@ -19,7 +19,8 @@ Just **speak**, and SmartCart will add, remove, or suggest items intelligently.
 ## 🖼️ Screenshots  
 
 ### 🏠 Home Interface  
-![Home Screen](assets/home.png)  
+![Home Screen](assets/home.png<img width="1445" height="895" alt="image" src="https://github.com/user-attachments/assets/af9b744e-1bf4-4385-894f-602d2221906c" />
+)  
 
 ### 📝 Shopping List in Action  
 ![Shopping List](assets/list.png)  
